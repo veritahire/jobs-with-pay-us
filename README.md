@@ -17,310 +17,310 @@ around 2.9 million live jobs free at [veritahire.com](https://veritahire.com/sea
 Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritahire/us-entry-level-jobs) · [US Internships and Co-ops](https://github.com/veritahire/us-internships) · [Remote Jobs in the US](https://github.com/veritahire/remote-jobs-us) · [US Nursing Jobs (RN, LPN/LVN, NP, CNA)](https://github.com/veritahire/nursing-jobs-us)
 
 <!-- jobs:start -->
-**300 jobs**, updated 2026-11-16. Every one was confirmed on the employer's own career site in the last 3 days.
+**300 jobs**, updated 2026-11-17. Every one was confirmed on the employer's own career site in the last 3 days.
 
 | Role | Employer | Location | Pay (as posted) | Type | Posted | |
 |---|---|---|---|---|---|---|
-| Shift Lead | Walgreens | NM | $17.50–$22.50/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91277494) |
-| Customer Service Associate | Walgreens | Hallandale, FL | $15 - $19 / Hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91277492) |
-| Sales Floor Assistant - Solano Mall | Jcpenney Optical | Fairfield, CA | $18.50/Hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91276938) |
-| Assistant Store Manager | Jcpenney Optical | Westport, CT | $22.75/Hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91276937) |
-| Assistant Store Manager - Deptford Mall | Jcpenney Optical | Deptford, NJ | $18.50/Hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91276936) |
-| Temporary Sales Support Associate | Tapestry | FL | $15–$21.75/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91275947) |
-| Temporary Associate | Tapestry | KY | $15–$19.50/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91275944) |
-| Temporary Sales Associate | Tapestry | GA | $15–$24.25/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91275942) |
-| Technician II - Quality | Microchip Technology | CO | $17.00 - $32.69/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91275752) |
-| Sr. Associate, Risk Testing | First National of Nebraska Inc | NE | $82K–$135K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91275577) |
-| Sr. Associate, Issues Management | First National of Nebraska Inc | NE | $82K–$135K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91275574) |
-| Sr. Associate, Digital & Data Controls Lead | First National of Nebraska Inc | NE | $82K–$135K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91275571) |
-| Associate Manager, Brand Marketing | Constellation Brands | Chicago, IL | $97K–$148K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91275554) |
-| Merchandise Associate | TJX Companies | Davenport, IA | $13.25 to $13.75 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91274672) |
-| Seasonal Retail Associate (Mornings) | TJX Companies | Nicholasville, KY | $13.00 to $13.50 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91274669) |
-| Seasonal Retail Sales Associate | TJX Companies | Destin, FL | $16.00 to $16.50 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91274668) |
-| Mobile Phlebotomist 1 - Bedford (54396) | Specialty Services At Carter Bloodcare | Mobile Collections - DFW - Bedford, TX | $18.48/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91273656) |
-| College Student - Technical | Lockheed Martin | Mount Laurel, NJ | $22.66 - $31.67 | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91271252) |
-| Property Analyst Sr - E3 | Lockheed Martin | Huntsville, AL | $72,500.00 - $134,600.00 | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91271244) |
-| Server | Texas Roadhouse | La Plata, MD | $15.00 - $25.00 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91269914) |
-| Server Assistant - Busser | Texas Roadhouse | Bradley, IL | $15.00 - $18.00 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91269912) |
-| LVN Full-time | PACS | CA | $40-$44/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91269028) |
-| RN NOC Shift (On-call) | PACS | CA | $50/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91269027) |
-| Sales Lead | KnitWell Group | IL | $16.00 - $20.00 Hourly | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91268863) |
-| Merchandising Manager | KnitWell Group | MD | $19.00 - $23.75 Hourly | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91268850) |
-| Sales Associate, Merrick & Merrick | KnitWell Group | NY | $17.00 - $21.25 Hourly | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91268836) |
-| Sr. Account Executive 2, Mid-Market Sales | Equinix | TX | $176K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91268775) |
-| Patient Services Representative - ENT & Allergy | Lifepoint Health Provider Recruitment | Martinsville, VA | $14.41–$17.79/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91268553) |
-| Insurance Specialist | Lifepoint Health Provider Recruitment | Danville, VA | $16.19–$19.99/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91268549) |
-| Receptionist | Lifepoint Health Provider Recruitment | Holyoke, MA | $16.19–$19.99/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91268546) |
-| Patient Care Technician - Samaritan MHU Adult Psych - FT Night 8 hours shifts | Trinity Health | Troy, NY | $17.25–$25/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91266980) |
-| RN for Observation/Clinical Decision Unit at St Peter's Hospital - Full Time Days | Trinity Health | Albany, NY | $40–$53.10/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91266978) |
-| Patient Care Tech - Samaritan Hosp - 4 Pavilion Med/Surg - PT Day | Trinity Health | Troy, NY | $17.25–$25/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91266977) |
-| Corporate and Foundation Relations Officer | Fraser | Richfield, MN | $79K–$84K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91266385) |
-| Bartender - Part-time | Sage Hospitality Group | Denver, CO | $19.29 /Hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91266077) |
-| Interventional Radiology Technologist Per Diem | Englewood Hospital | NJ | $43.00 - $53.00 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91262862) |
-| Fire Safety/Emergency Management Manager | Centrus Energy Corp. | Piketon, OH | $93K–$155K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91262270) |
-| Sales Associate | Regency Management Services, LLC | North Dartmouth, MA | $60,000.00 - $120,000.00 Commission/year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91248002) |
-| Maintenance Lead | Atkore | Pendleton, OR | $38.00/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91241215) |
-| Retail Key Holder - Part-Time | The Vitamin Shoppe | Columbus, OH | $13.50 - $15.00 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91237068) |
-| Seasonal Support Driver | Upsjobsky | South Kingstown, RI | $23.00/hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91236041) |
-| Seasonal Package Delivery Driver | Upsjobsky | Rice Lake, WI | $23.00/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91235146) |
-| Pre-Treatment Program Specialist-1 | Great Lakes Water Authority | MI | $69K–$104K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91233852) |
-| Senior Software Developer - Java - Remote Available | Leidos | Ashburn, VA | $108K–$195K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91228048) |
-| Director, Silicon & Embedded Systems | Leidos | San Diego, CA | $154K–$278K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91228040) |
-| Director, World Model & Data | Leidos | San Diego, CA | $154K–$278K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91228029) |
-| Refrigeration Mechanic | Conagra Brands | Darien, WI | $36.16 an hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91226568) |
-| Maintenance Mechanic | Conagra Brands | Darien, WI | $33.82 an hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91226504) |
-| Branch Manager | Wafd Bank | Stanwood, WA | $80,170.00/Yr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91224289) |
-| Regional Director of People & Culture Southern California | AccorHotel | Los Angeles, CA | $230K–$250K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91221399) |
-| Guest Experience Ambassador Overnight (Bell/Door Attendant) | AccorHotel | NY | $27.00 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91221393) |
-| Banquet Server (T) (Casual) | AccorHotel | Kohala Coast, HI | $16.50/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91221392) |
-| Store Coordinator | Fresh Thyme Market | Savage, MN | $16.05–$25.15/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91219697) |
-| Meat Seafood Coordinator | Fresh Thyme Market | Cranberry Twp., PA | $18.45–$27.05/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91219696) |
-| Grocery Coordinator | Fresh Thyme Market | Cranberry Twp., PA | $16.05–$25.15/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91219695) |
-| Housekeeper | Community Medical Center | Suffolk, VA | $ 16 /hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91219685) |
-| P&G North America Gillette Design Leader | Procter & Gamble | BOSTON, MA | $110,000.00 - $165,300.00 / year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91218768) |
-| Human Resources Coordinator | Helix Electric | Manassas, VA | $50,000 - $67,000 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91218366) |
-| Senior Manager, Market Development | Patheon | Remote (CA) | $131K–$197K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91216164) |
-| Ion Chromatography Technical Sales Specialist | Patheon | Remote (TX) | $76K–$114K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91216161) |
-| Accountant II, OFNS | Baltimore County Public Schools | Middle River, MD | $81K–$130K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91213247) |
-| General Superintendent I | Fluor | Buda, TX | $120K–$222K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91212760) |
-| Infrastructure Construction Engineer | Fluor | Buda, TX | $54K–$100K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91212759) |
-| Infrastructure Utility Superintendent | Fluor | Buda, TX | $92K–$171K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91212757) |
-| Program Lead | Merakey | Coraopolis, PA | $21.48/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91211819) |
-| Assistant Shipping / Warehouse Clerk | Just In Time Staffing LLC | River Grove, IL | $19 per hour | Contract | 2026-11-16 | [View](https://veritahire.com/j/91210659) |
-| Dispatcher | Just In Time Staffing LLC | Bollingbrook, IL | $19 per hour | Contract | 2026-11-16 | [View](https://veritahire.com/j/91210623) |
-| Recycle Equipment Operator | Vulcan Materials Company | Pleasanton, CA | $52.92per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91210234) |
-| Loader Operator | Vulcan Materials Company | Vallejo, CA | $51.56 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91210233) |
-| Manager, Business Configuration | Medica | Minnetonka, MN | $100K–$172K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91209546) |
-| Winter 26/27: Front Desk Agent | POWDR | CO | $18.50–$20.40/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91207272) |
-| Condo Maintenance Supervisor | POWDR | CO | $28–$29.70/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91207255) |
-| Lift Maintenance Technician - 2026 | POWDR | OR | $22-23.92/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91207238) |
-| Production Manager | Niacet, A Kerry Company | IN | $88,100 to $144,800 annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91205302) |
-| Bilingual Warehouse Janitorial Site Supervisor | Kellermeyer Bergensons Services, LLC | Chester, VA | $19.80/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91204984) |
-| Plant Facility & Utilities Maintenance Technician (Day Shift) | Diagnostic Cardiology At Baxter - U.s. | Round Lake, IL | $53K–$73K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91203123) |
-| Security Intelligence Analyst, Consultant | Blue Shield of California | Oakland, CA | $123K–$185K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91202394) |
-| Customer Service Outfitter- Part Time | Bass Pro Shops | Irvine, CA | $17–$19.75/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91192463) |
-| Contracts Administrator - Finance | ImmunityBio | CA | $38.50/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91190306) |
-| Part-Time Ramp and Customer Service Agent | Us Envoyair | Shreveport, LA | $13.80 / hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91190284) |
-| Product Development Director - P&C Cross Lines Mod | USAA | TX | $127K–$243K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91190267) |
-| Mid-Level Software Engineer - UI/API Application Development | USAA | TX | $94K–$179K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91190260) |
-| VP, Product Management - Annuities | USAA | TX | $224K–$404K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91190259) |
-| Customer Success Manager (LegalTech / Law Firms) | Imanage | Chicago, IL | $87,000-$135,000 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91190251) |
-| GFE Clearance Team Clinician - Charleston | NakedMD | James Island, SC | $100/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91190173) |
-| Experienced Aesthetic Injector - NP | NakedMD | James Island, SC | $90/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91190163) |
-| Staff RN/Case Manager (0.8) | Hospice of the Red River Valley | Devils Lake Office - Devils Lake, ND | $36.06 | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91189934) |
-| Chaplain | Hospice of the Red River Valley | Fargo Headquarters - Fargo, ND | $25.83 / hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91189933) |
-| ESTIMATING & REVIEW GROUP ENGINEER (CIVIL ENGINEER V) | State of Illinois | IL | $82K–$130K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91189361) |
-| Retail Associate | Vail Resorts | Peninsula, OH | $20/hr | Contract | 2026-11-16 | [View](https://veritahire.com/j/91189360) |
-| Experienced Cook | Vail Resorts | Keystone, CO | $21.25–$26.57/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91189359) |
-| Lead Retail Operations | Vail Resorts | Breckenridge, CO | $23–$26.88/hr | Contract | 2026-11-16 | [View](https://veritahire.com/j/91189358) |
-| Travel RN: ED | Wayward Medical | Ganado, AZ | $2730 per week | Contract | 2026-11-16 | [View](https://veritahire.com/j/91189352) |
-| Multi-Site Leasing Manager | Amli Residential | Pasadena, CA | $68,000-$72,000 Annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91189350) |
-| Apartment Make Ready Technician | Amli Residential | Glendale, CA | $24.50 per Hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91189349) |
-| Front Desk | Concord Hospitality Enterprises | Morrisville, NC | $15.00 to $17.00 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91189249) |
-| Front Desk Supervisor | Concord Hospitality Enterprises | Pittsburgh, PA | $18.00 to $21.60 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91189248) |
-| Cook - Patient Dining (0.8 FTE/Days) | Overlake Medical Center & Clinics | Bellevue, WA | $24.49–$36.74/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91188116) |
-| 3D | Sentara Health | Norfolk, VA | $41.24 - $61.82 hourly | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91186381) |
-| REGISTERED NURSE- HOME CARE | Sentara Health | Harrisonburg, VA | $87,214.40 - $126,900.80 annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91186369) |
-| Russian Hill - Shift Supervisor | Philz Coffee | San Francisco, CA | $22.55–$24.55/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91186121) |
-| Senior Finance Manager | The Farmer's Dog | NY | $155K–$170K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91186092) |
-| Access Supervisor | BrightSpring Health Services | DENVER, CO | USD $60,000.00/Yr. | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91185287) |
-| Merchandise Manager | Burlington | MA | $31.75–$42.35/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91185262) |
-| School Social Worker 2026/2027 School Year | Lancaster School District | Lancaster, CA | $90000 - $114000 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91185193) |
-| Budget Technician (8 hours) | Lancaster School District | Lancaster, CA | $26.42 - $32.06 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91185192) |
-| Administrative Secretary I (8-hours) | Lancaster School District | Lancaster, CA | $26.42 - $32.06 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91185191) |
-| Senior Quality Inspector (Mechanical) | Standardbots | NY | $34-40/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91184974) |
-| Server | Jaggers Restaurant | Colonial Heights, VA | $12.77 - $14.00 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91183621) |
-| Server Assistant - Busser | Jaggers Restaurant | Bradley, IL | $15.00 - $18.00 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91183329) |
-| PT Sales Associate-8 | Tory Burch | Monroe, OH | $15–$17/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91182446) |
-| Psychiatric Nurse Practitioner (PMHNP) in Ephrata, PA | LifeStance Health | Ephrata, PA | $230K–$260K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91182391) |
-| Psychiatric Nurse Practitioner (PMHNP) in Bridgeville, PA | LifeStance Health | Bridgeville, PA | $230K–$260K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91182390) |
-| PMHNP Nurse Practitioner in Philadelphia / Rittenhouse Square, PA | LifeStance Health | Philadelphia, PA | $230K–$260K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91182389) |
-| Sandwich Maker - Part Time | Snarf's Sandwiches | Snarf's on Nickel - Broomfield, CO | $15.00 - $21.00 Hourly | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91182302) |
-| Certified Surgical Technologist Hospital Contract $62/hr | Northwell Health | Suffolk, NY | $52/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91181349) |
-| Part-Time Merchandiser | Schwan's Home Delivery | Topeka, KS | $18 / hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91181196) |
-| Executive Business Partner, GTM | CircleCI | San Francisco, CA | $90K–$114K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91180792) |
-| Laboratory Technician | Dairy Farmers of America | Lubbock, TX | $22.50 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91180774) |
-| Site Director | Veho | Flowery Branch, GA | $150,000 - $160,000 annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91180536) |
-| Assemblers- All Shifts | Prologistix | Senatobia, MS | $15.5 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91179464) |
-| Cherry Picker Operator | Prologistix | Chambersburg, PA | $19.0 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91179463) |
-| Warehouse Associate | Prologistix | Chambersburg, PA | $20.0 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91179462) |
-| Electrical Superintendent | Loenbro | WY | $10/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91179151) |
-| Electrical Foreman | Loenbro | Loveland, CO | $43.50–$53.50/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91179150) |
-| Maintenance Technician | The Liberty Group | Newport, RI | $26–$31/hr | Contract | 2026-11-16 | [View](https://veritahire.com/j/91178999) |
-| Presuit Secretary | Morgan & Morgan, P.A | Manhattan, NY | $23/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91178307) |
-| Personal Injury Case Manager | Morgan & Morgan, P.A | Manhattan, NY | $65K–$85K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91178295) |
-| Community Corrections Officer 2 / Tacoma Reentry Center | State of Washington | Thurston County – Olympia, WA | $71K–$96K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91177925) |
-| Hair Color Bar Assistant, Licensed Cosmetologist | Madison Reed | Huntington Beach, CA | $28 - $30 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91174314) |
-| Colorist, Licensed Cosmetologist | Madison Reed | Houston, TX | $35.50 - $37.50 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91174309) |
-| Financial Analyst | Convera | NY | $92,910 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91174306) |
-| Underwriter | Hometap | Remote (MA) | $75K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91174246) |
-| Staff / Lead Backend Engineer, Payments Platform | Xero | San Mateo, CA | $206K–$260K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91174245) |
-| Temporary Recruiter (Leave Coverage) | Ridwell | WA | $28-$30 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91174243) |
-| Data Center Manager | Amazon (corporate) | Canton, MS | $124K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91171401) |
-| Sr. Mgr, Safety Feedback and Engagement | Amazon (corporate) | Bellevue, WA | $184K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91171400) |
-| Sr. Software Development Engineer, Agentic AI, Velocity Labs | Amazon (corporate) | NY | $250K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91171395) |
-| Houseperson | Waterford Hotel Group, Inc. | Hartford, CT | Starting at $18.00 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91170986) |
-| Housekeeping Supervisor | Waterford Hotel Group, Inc. | Ithaca, NY | $19.00 to $20.50 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91170985) |
-| Clinical Pharmacist and Program Development Lead | Skillcloud HCM | Portland, ME | $130K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91166410) |
-| Security Engineer | Mach Industries | Huntington Beach, CA | $105K–$150K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91165592) |
-| Senior NAND Custom Test Circuit Design Engineer | Micron Technology | San Jose, CA | $148,000.00 - $252,000.00 a year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91164858) |
-| Staff NAND Custom Test Circuit Design Engineer | Micron Technology | San Jose, CA | $120,000.00 - $204,000.00 a year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91164857) |
-| Care Coordinator (Jenkintown, PA) | Ennoble Care | Jenkintown, PA | $18/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91163722) |
-| Open Rank, Clinical Faculty Appointment (CFA) - Radiation Physics | MD Anderson Cancer Center | Houston, TX | $181K–$273K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91162947) |
-| Associate Professor, CFA - Gastroenterology, Hepatology, & Nutrition | MD Anderson Cancer Center | Houston, TX | $416K–$507K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91162946) |
-| Claim Representative II - REMOTE | Ryder System | Remote (CO) | $65K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91162139) |
-| Dishwasher | California Pizza Kitchen, Inc. | CA | $16.90–$18.90/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91162133) |
-| Pizza Cook | California Pizza Kitchen, Inc. | CA | $16.90–$20.90/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91162132) |
-| Asset Management Consultant / Housing | Eliseai | NY | $150K–$250K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91162033) |
-| Advance Practice Provider NP/PA | CVS Health | Cypress, TX | $66.50-77.50/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91158059) |
-| Endoscopy Tech | The Resource Group, Spend Management Solutions | Hoffman Estates, IL | $21.23 - $29.59 an hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91153875) |
-| Echocardiography Tech | The Resource Group, Spend Management Solutions | Elk Grove Village, IL | $43.74 - $60.97 an hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91153871) |
-| Surgical Services Lead | The Resource Group, Spend Management Solutions | Elk Grove Village, IL | $34.71 - $48.41 an hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91153869) |
-| Test Center Administrator (Springfield, IL) | Addison Wesley | Springfield, IL | $17.75 per hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91153429) |
-| REGISTERED NURSE MEDSURG (FT NIGHTS) | Universal Health Services | HENDERSON, NV | $36.70 to $54.96 an hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91153416) |
-| Account Executive Wound Closure (Newport Beach, CA) - Johnson & Johnson MedTech - Surgery | Johnson & Johnson | Newport Beach, CA | $95K–$118K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91153392) |
-| Account Executive Biosurgery (UCSF, CA) - Johnson & Johnson MedTech - Surgery | Johnson & Johnson | San Francisco, CA | $70K–$113K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91153390) |
-| Account Executive Wound Closure (Boston Central, MA) - Johnson & Johnson MedTech - Surgery | Johnson & Johnson | Boston, MA | $70K–$113K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91153389) |
-| Fleet Maintenance Fueler Washer | Penske Energy | Rochester, NY | $22.00 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91151838) |
-| Medical Receptionist | CityMD | Secaucus, NJ | $18.25 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91150486) |
-| Case Manager III-ADS | Catholic Charities Twin Cities | Minneapolis, MN | $56K–$63K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91149465) |
-| COOK | Catholic Charities Twin Cities | St Paul, MN | $21.00 - 23.00/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91149464) |
-| Maintenance Technician | Cheyenne International | Gonzales, TX | $27 - $32/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91147371) |
-| Structural Steel QC Inspector | Qualdoc | Richmond, VA | $31.00/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91145963) |
-| Structural Steel Fitting & Welding Foreman | Qualdoc | York, PA | $39/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91145961) |
-| Structural Steel Fabricator - Fitter / Welder-Fitter | Qualdoc | York, PA | $25.00/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91145960) |
-| Sales Operations Account Coordinator | Cornerstone Staffing | Westlake, TX | $90,000-$100,000 annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91145012) |
-| Home Improvement Sales Representative | Renuity | Phoenix, AZ | $150k - $300k annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91145011) |
-| Service Analyst II | Acumen Technology | Nashville, TN | $50K–$64K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91142521) |
-| Seasonal Ambassador - American Dream | Lush Handmade Cosmetics | East Rutherford, NJ | $16.50/hr | Contract | 2026-11-16 | [View](https://veritahire.com/j/91142388) |
-| Part Time Floor Leader - American Dream Meadowlands | Lush Handmade Cosmetics | East Rutherford, NJ | $18.70/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91142356) |
-| Part Time Youth Sports Coach | Super Soccer Stars | East Brunswick, NJ | $20.00 to $30.00 / hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91140073) |
-| Security Officer Supermarket Aisle Patrols | Allied Universal | NY | $18.48 - 19.48 / Hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91138638) |
-| Security Officer Transit Platform Patrols | Allied Universal | Kings, NY | $19.09 / Hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91138636) |
-| Security Guard Overnight Transit Station Patrols | Allied Universal | Kings, NY | $19.09 / Hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91138635) |
-| Sr Consultant, Product Management | Cargill | MN | $100K–$130K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91137753) |
-| Server | Dave & Buster's | Lynnwood, WA | $17.13/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91137559) |
-| Business Systems Intelligence Administrator | Douglas County | Castle Rock, CO | $97,485-$121,856 annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91136063) |
-| Vans: Supervisor - CoolSprings Galleria | Vans | TN | $17.50–$24/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91135654) |
-| In-House Assistant Marketing Manager - Harbour Lights | Travel + Leisure Co. | CA | $70,304 - $70,304 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91134439) |
-| Produce Clerk | Niemann Foods | Champaign, IL | $16 - $18 / Hourly | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91133371) |
-| Material Handler | Coca-cola Bottling Company United, Inc. | Norfolk Full Time Warehouse, VA | $17.40–$18.40/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91132490) |
-| HR Generalist | Country Meadows | Bethlehem, PA | $72K–$85K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91129337) |
-| Car Wash Attendant - Clean Express Auto Wash | Express Wash Concepts | Livonia, MI | $15.00/hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91128608) |
-| Critical Facilities Engineering Manager | Salute (IconicX) | Afton, TX | $140,000-$150,000/year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91128607) |
-| Assistant Site Manager II - Clean Express Auto Wash | Express Wash Concepts | Redford, MI | $22/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91128605) |
-| Data Center Mechanical Subject Matter Expert | Salute (IconicX) | Afton, TX | $130,000-$145,000 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91128455) |
-| Team Leader II - Clean Express Auto Wash | Express Wash Concepts | Flint, MI | $17.50 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91127966) |
-| Portfolio Manager | Sunstates Security | Princeton, NJ | $90K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91121785) |
-| Medical Technologist/MLT/Lab Technician - Clinical Microbiology | Cleveland Clinic | Cleveland, OH | $34/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91120935) |
-| Medical Technologist/MLT /Lab Technician - Blood Bank | Cleveland Clinic | Cleveland, OH | $34/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91120831) |
-| Lead Server / Full-Time | Frasier | Boulder, CO | $19.80-22.74 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91117801) |
-| Hiring Event - CNA/LPN/RN | American Senior Communities | South Bend, IN | $20-24/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91115876) |
-| Catering Supervisor | Metz Culinary Management | Flushing, NY | $20 - $23 / Hourly | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91115505) |
-| Housekeeper | Tharaldson Hospitality Management | Niles, OH | $12.00-$13.00/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91113336) |
-| Regional Director, Site Operations | Women In Need, Inc. (win) | NY | $85K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91113190) |
-| Preschool Support Teacher | Cadence Education | Attleboro, MA | USD $17.00/Hr. | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91112458) |
-| Registered Nurse, RN / Nursing Residency Program / Progressive Care Unit | Tuality Healthcare | Hillsboro, OR | 72 | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91112204) |
-| Preschool Teacher Assistant | Cadence Education | Raynham, MA | USD $16.20/Hr. | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91112008) |
-| Registered Nurse, RN / Nursing Residency Program / Acute Care - 4 West | Tuality Healthcare | Hillsboro, OR | 72 | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91110223) |
-| Registered Nurse, RN / Nursing Residency Program / Acute Care - Med/Surg | Tuality Healthcare | Hillsboro, OR | 72 | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91108601) |
-| Laboratory Assistant I- days | AdventHealth | Tavares, FL | $16.02–$25.63/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91105522) |
-| Respiratory Therapist III PRN | AdventHealth | Orange City, FL | $28.97–$53.88/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91105521) |
-| Laboratory Assistant II days | AdventHealth | Tavares, FL | $16.30–$26.08/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91105520) |
-| Western Regional Sales Manager (Remote) | IDEX Corporation | Remote (Lake Bluff, IL) | $113K–$169K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91105508) |
-| Beauty Sales Consultant, Licensed | CVS Health | Wakefield, RI | $18–$27/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91105506) |
-| store associate | CVS Health | Kearney, MO | $15–$19/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91105505) |
-| Part time Administrative Assistant | Associa | Richardson, TX | $21.00/hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91098944) |
-| CAFE MANAGER | Gorsuch | Vail, CO | $85K–$98K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91098203) |
-| COFFEE BAR SUPERVISOR | Gorsuch | Vail, CO | $28-32 hourly | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91098202) |
-| Production Supervisor | Ford Motor Company | Brook Park, OH | $74K–$124K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91096214) |
-| NVH Wind and Noise PVT Engineer - MAP | Ford Motor Company | Dearborn, MI | $74K–$124K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91096122) |
-| PTO Powertrain Scheduling Analyst | Ford Motor Company | Dearborn, MI | $74K–$124K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91096039) |
-| Information Security Engineer | Onvida Health | Yuma, AZ | $79K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91094293) |
-| Water/Wastewater Resident Engineer | Stv | NY | $188K–$215K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91092148) |
-| Assistant Resident Engineer | Stv | Brooklyn, NY | $150K–$171K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91092147) |
-| Clinical Nurse Supervisor - Hybrid - Ridgeland, MS | Gainwell Technologies | MS | $61,500.00 - $87,900.00 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91091897) |
-| Shared Services Representative - Remote - Fleet Management | Enterprise Holdings | St. Louis Fleet Admin Office, MO | $17.69 - $18.94 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91090431) |
-| Automotive Detailer - Car Washer - Guntersville | Enterprise Holdings | Guntersville, AL | $15 / hour | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91090429) |
-| Senior Data Quality Assurance Engineer, Data Annotation Services | Caterpillar | Irving, TX | $113K–$183K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91090286) |
-| Senior Validation Engineer - Autonomy Scalability (1st Shift) | Caterpillar | Mossville, IL | $113K–$183K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91090285) |
-| Team Lead - 2nd Shift | Caterpillar | Sanford, NC | $25.10–$31.35/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91090284) |
-| Convention Services Manager | Dimension Hospitality | Scottsdale, AZ | $65,000 to $85,000 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91088913) |
-| House Person | Dimension Hospitality | Richardson, TX | $16.00 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91088912) |
-| Laundry Attendant | Dimension Hospitality | Richardson, TX | $16.00 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91088911) |
-| Associate Demand Field Service Technician | ABB | Cleveland, OH | $68,320 annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91087953) |
-| CDL Truck Driver | Wegmans | Pottsville, PA | $85K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91084898) |
-| Manager, EHS | Roeslein & Associates | Louisville, CO | $116,854.00/Yr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91084161) |
-| Sr Business Analyst, M&A | McKesson | VA | $107K–$179K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91080712) |
-| Hospital / Physical Therapist / 13-Week Travel PT Contract - Whitehall, WI | Ghr Healthcare | Whitehall, WI | $2260 - $2430 per week | Contract | 2026-11-16 | [View](https://veritahire.com/j/91080347) |
-| Hospital / Registered Respiratory Therapist / 13-Week Travel RRT Contract - Milwaukee, WI | Ghr Healthcare | Milwaukee, WI | $2030 - $2190 per week | Contract | 2026-11-16 | [View](https://veritahire.com/j/91080343) |
-| Hospital / Registered Respiratory Therapist / 13-Week Travel RRT Contract - Neenah, WI | Ghr Healthcare | Neenah, WI | $1830 - $1970 per week | Contract | 2026-11-16 | [View](https://veritahire.com/j/91080340) |
-| Whole Body Team Member (Body Care, Makeup, Vitamins, Nutrition - Stocker, Inventory, Floor Service) - Part Time Seasonal | Whole Foods Market | Columbus, OH | $18–$25.40/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91078205) |
-| Whole Body Team Member (Body Care, Makeup, Vitamins, Nutrition - Stocker, Inventory, Floor Service) - Part Time | Whole Foods Market | Cincinnati, OH | $16.75–$25.40/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91078204) |
-| Store Receiver - Part Time | Whole Foods Market | NY | $19.50–$30.20/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91078201) |
-| Loan Servicing Account Solutions Specialist - Bilingual | Regions Financial | Kingwood, TX | $42K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91077058) |
-| Director - Credit Adjudication Non-Bank Financial / Asset Dealer Finance | BMO | Chicago, IL | $130K–$270K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91075474) |
-| Business Operations Associate - Full Time | CarMax | OR | $16.81–$25.60/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91074443) |
-| Sales Consultant - Full Time | CarMax | WA | $65,000 annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91074442) |
-| Business Operations Associate | CarMax | MS | $15–$21/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91074441) |
-| Service Technician | Novanta | Sarasota, FL | $30,240 to $45,200 annually | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91069492) |
-| Team Member | Inspire | Oakland Park, FL | $15.00 - $17.00 / hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91066850) |
-| Restaurant General Manager | Inspire | Clearwater, FL | $44000.00 - $46000.00 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91066848) |
-| Facility Operations Team Member | Life Time | IL | $16.50/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91066827) |
-| Women's Facility Operations Team Member | Life Time | IL | $16.50/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91066825) |
-| Men's Facility Operations Team Member | Life Time | IL | $16.50/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91066824) |
-| Team Captain Endzone & Loyalty (Front End) | Dick's Sporting Goods | CA | $52K–$66K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91066148) |
-| Team Captain Sport & Outdoor | Dick's Sporting Goods | OH | $44K–$58K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91066147) |
-| Residential Installation & Service Technician | Comcast | VA - Ashburn, VA | $23.00/hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91066093) |
-| Research Assistant II - Psychiatry | Cincinnati Children's | Cincinnati, OH | $21.14–$26.47/hr | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91062759) |
-| OFFICE ASSISTANT II | Lynwood Unified School District | Lynwood, CA | $22.04 - $27.52 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91062056) |
-| SECRETARY | Lynwood Unified School District | Lynwood, CA | $24.22 - $30.16 per hour | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91062055) |
-| Principal, Charter School - La Verne Science & Technology Charter School | Pomona Unified School District | Pomona, CA | $136969 - $165623 per year | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91062053) |
-| Records Clerk #538 *This position is limited to Classified Employees of the Pomona Unified School District, Non-Classified (Substitute) Employees and Employees on layoff status* | Pomona Unified School District | Pomona, CA | $3366.47 - $4095.82 per month | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91062052) |
-| Project Coordinator Arts Program - Promotional | Fullerton Elementary School District | Fullerton, CA | $7066 - $7795 per month | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91062051) |
-| Stock Associate (Seasonal) | J. Crew | TX | $13.50–$15.52/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91061158) |
-| Sales Associate | J. Crew | TX | $13.50–$15.52/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91061156) |
-| Sales Associate (Seasonal) | J. Crew | TX | $13.50–$15.52/hr | Part-time | 2026-11-16 | [View](https://veritahire.com/j/91061155) |
-| Campaign Manager | Bridgewater State University | Bloomington, IL | $124K–$202K | Full-time | 2026-11-16 | [View](https://veritahire.com/j/91061152) |
-| Shipping And Receiving Associate IMMEDIATE START | Aerotek | Carlstadt, NJ | $20.29/hr | Contract | 2026-11-16 | [View](https://veritahire.com/j/91060870) |
-| Janitoral Worker | Aerotek | Spring City, PA | $18–$24/hr | Contract | 2026-11-16 | [View](https://veritahire.com/j/91060869) |
-| Diesel Mechanic | Aerotek | Chester, NY | $25–$35/hr | Contract | 2026-11-16 | [View](https://veritahire.com/j/91060868) |
-| Pharmacy Customer Service Associate | Walgreens | Livonia, MI | $16 - $20 / Hour | - | 2026-11-16 | [View](https://veritahire.com/j/91277490) |
-| Senior Software Safety Manager | NVIDIA USA | Remote (MI) | $184K–$351K | - | 2026-11-16 | [View](https://veritahire.com/j/91264693) |
-| (RN) Registered Nurse - Head & Neck Surgery - 142179 | UC San Diego | San Diego, CA | $66.25–$92.86/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91232101) |
-| Volunteer Coordinator, Volunteer Services - 142159 | UC San Diego | San Diego, CA | $62K–$85K | - | 2026-11-16 | [View](https://veritahire.com/j/91232097) |
-| (RN) Registered Nurse - ED Inpatient - 142160 | UC San Diego | San Diego, CA | $66.25–$92.86/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91232092) |
-| Fabrication Associate | Mark Vii Equipment Inc. | Arvada Office - Arvada, CO | $20.00 - $23.00 Hourly | - | 2026-11-16 | [View](https://veritahire.com/j/91230989) |
-| Fabrication Associate - 2nd Shift | Mark Vii Equipment Inc. | Arvada Office - Arvada, CO | $20.00 - $23.00 Hourly | - | 2026-11-16 | [View](https://veritahire.com/j/91230982) |
-| Customer Service Representative | Wafd Bank | Socorro, NM | $18.00/Hr | - | 2026-11-16 | [View](https://veritahire.com/j/91224296) |
-| Physical Security Analyst | Wafd Bank | Boise, ID | $26.70/Hr | - | 2026-11-16 | [View](https://veritahire.com/j/91224290) |
-| Stylist - North Las Vegas - Decatur | Smartstyle Salons | LAS VEGAS, NV | $12/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91221467) |
-| Stylist - Las Vegas Arroyo Crossing | Smartstyle Salons | LAS VEGAS, NV | $12/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91221466) |
-| Stylist - Las Vegas - Serene | Smartstyle Salons | LAS VEGAS, NV | $12.00/hour | - | 2026-11-16 | [View](https://veritahire.com/j/91221465) |
-| Customer Service Representative - PM | Invitation Homes | Dallas, TX | $17.90–$31.03/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91219324) |
-| Maintenance Technician II | Invitation Homes | Houston, TX | $20.19–$35/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91219323) |
-| General Cleaner | Kellermeyer Bergensons Services, LLC | Chandler, AZ | $16.30/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91205031) |
-| Warehouse Janitorial Associate | Kellermeyer Bergensons Services, LLC | Melrose Park, IL | $15.00 per hour | - | 2026-11-16 | [View](https://veritahire.com/j/91204989) |
-| DIETARY AIDE/ASST | Universal Health Services | LAS VEGAS, NV | $17.21 to $17.21 an hour | - | 2026-11-16 | [View](https://veritahire.com/j/91193698) |
-| Truck Driver Student | Xpo Logistics, Inc. | KY | $ 22.85/ hour | - | 2026-11-16 | [View](https://veritahire.com/j/91190387) |
-| San Mateo - Barista | Philz Coffee | San Mateo, CA | $20.50–$21.50/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91186122) |
-| Restaurant Busser | Outback Steakhouse (Bloomin Brands) | SKOKIE, IL | $9/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91185303) |
-| Intake Specialist | BrightSpring Health Services | IN | USD $17.00/Hr. | - | 2026-11-16 | [View](https://veritahire.com/j/91185293) |
-| Benefits Investigation Specialist | BrightSpring Health Services | ENGLEWOOD, CO | USD $21.00/Hr. | - | 2026-11-16 | [View](https://veritahire.com/j/91185288) |
-| Regional Vice President | Reliable Medical | San Jose, CA | $50–$55/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91180777) |
-| Cook 2 / Reynolds Reentry Center | State of Washington | Thurston County – Olympia, WA | $50K–$66K | - | 2026-11-16 | [View](https://veritahire.com/j/91177940) |
-| Inspector/Packer | Sealed Air Corporation | OH | $18.50/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91169509) |
-| Line Cook | Carrabba's Italian Grill | Amherst, NY | $16–$21/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91164852) |
-| RN Staff Nurse - Women's Services | Legacy Health | SILVERTON, OR | $84.66 /Hr | - | 2026-11-16 | [View](https://veritahire.com/j/91164717) |
-| Assistant Professor, Clinical Faculty Appointment (CFA) - Pediatrics - Patient Care | MD Anderson Cancer Center | Houston, TX | $223K–$269K | - | 2026-11-16 | [View](https://veritahire.com/j/91162945) |
-| Now Hiring Lead Housekeeper in Sargent, GA! | Sizemore, Inc. | Carrollton, GA | $16.00/hour | - | 2026-11-16 | [View](https://veritahire.com/j/91162084) |
-| Team Member | Bagel Brands | US - Clifton Park, NY | $14.00 - $21.00 per hour | - | 2026-11-16 | [View](https://veritahire.com/j/91134561) |
-| Customer Service Representative | U-Haul | Oakland, CA | $17.34 to $18.50 Hourly | - | 2026-11-16 | [View](https://veritahire.com/j/91121701) |
-| Sunday crew | McDonald's | WENDELL, NC | $12 per hour | - | 2026-11-16 | [View](https://veritahire.com/j/91090458) |
-| Financial Counselor | Centinela Hospital Medical Center | Inglewood, CA | $25.70/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91090437) |
-| Assistant Restaurant Manager | Inspire | Petersburg, FL | $16.00 - $17.00 per hour | - | 2026-11-16 | [View](https://veritahire.com/j/91066843) |
-| Guest Service Supervisor | Global Partners LP | Bow, NH | $18.89–$22.33/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91066037) |
-| Guest Service Associate/Cashier - XtraMart | Global Partners LP | Epping, NH | $16.05–$19.26/hr | - | 2026-11-16 | [View](https://veritahire.com/j/91066036) |
+| RN Seasonal Med Tele | Baylor Scott & White Health | Dallas, TX | $51/hr | Contract | 2026-11-17 | [View](https://veritahire.com/j/92441024) |
+| Class A Hazmat CDL Delivery Truck Driver | Poolcorp | Houston, TX | $25- $28/ Hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440461) |
+| Class C Non CDL Stake Bed Delivery Route Driver/ Warehouse Associate | Poolcorp | Chula Vista, CA | $23- $26/ Hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440460) |
+| Warehouse Associate | Poolcorp | Southampton, NY | $17 - $20 / hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440459) |
+| Front End Developer | Groundswell | McLean, VA | $117K–$164K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440392) |
+| Pre-Press Technician | Stouse | Amherst, NY | $22-$28.00/hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440375) |
+| PRN Occupational Therapy Assistant | Infinity Rehab | OR | $45.00 - $48.00 Hourly | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92440273) |
+| PRN Physical Therapist Assistant | Infinity Rehab | OR | $45.00 - $48.00 Hourly | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92440272) |
+| PRN Occupational Therapist | Infinity Rehab | Mennonite Village - Albany, OR | $55.00 - $60.00 Hourly | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92440271) |
+| Farsi Linguist (2026-0257) | Entegra Systems | VA | $65.58–$105.64/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440269) |
+| Route Service Representative (4-Day Workweek) | Cintas | GA | $22.40/hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440264) |
+| Production Supervisor | Cintas | CA | $70,304 - $89,700 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440261) |
+| Accounts Receivable Representative | Cintas | CA | $22.14 - $27.89 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440259) |
+| Utilization Management Clinician | Pacificsource Health Plans | Boise, ID | $71K–$106K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440202) |
+| Lead Dental Assistant w/ X-Ray | Prosmile | Parsippany, NJ | $25.00-$28.00 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440172) |
+| PT Budtender / Sedalia / CODES | Good Day Farm | Sedalia, MO | $16.0 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92440170) |
+| Lead / Shreveport / GDF | Good Day Farm | Shreveport, LA | $18.0 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440166) |
+| FT Delivery Driver / Joplin / GDF | Good Day Farm | Joplin, MO | $18.0 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92440165) |
+| Telepharmacy Technician - (Onsite - Store 09217 - Sun City, Arizona) - Full Time | CVS Health | AZ | $17.15–$27.15/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439977) |
+| Principal Software Development Engineer - Medicare Technology | CVS Health | Remote (CT) | $144K–$288K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439946) |
+| Patient Care Coordinator | CVS Health | Remote (IL) | $17–$31.30/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439876) |
+| Wealth Planner | Associated Bank | WI | $106,750.00 - $183,000.00 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439558) |
+| Financial Advisor | Associated Bank | MN | $48,000.00 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439551) |
+| IT Specialist IV - Field Service Support | Sonoco | Hartsville, SC | $107K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439461) |
+| Customer Service Associate | Salud Family Health | Commerce City, CO | $19.50 to $22.50 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439435) |
+| Medical Assistant | Salud Family Health | Brighton, CO | $21–$28.50/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439433) |
+| Manager Terminal Operations - Wichita Terminal Association (WTA) | BNSF Railway | Wichita, KS | $128K–$143K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439297) |
+| Payor Contracting and Growth, Credentialing & Revenue Cycle Specialist | Wee Care Corporation | Goodyear, AZ | $54K–$55K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439163) |
+| Cross-Functional Care Coordination & Operations Support Specialist | Wee Care Corporation | Goodyear, AZ | $18 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92439159) |
+| Safety Ambassador | Plymouth Housing | Seattle, WA | $29.56 to $32.61 hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439128) |
+| Senior Cyber Assessment Analyst, SME | Millennium Corporation | IL | $165K–$185K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439120) |
+| Sr Front End Engineer (SE III) | Farmer's Fridge | Chicago, IL | $145K–$155K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439067) |
+| R&D Tech, New Product Development | Farmer's Fridge | Chicago, IL | $56K–$62K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92439064) |
+| Per Diem Certified Nurse Midwife (CNM) | Oula | Charlotte, NC | $67/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92438975) |
+| Community Engagement Specialist (Temporary) - Hybrid/CA Only | Race Communications | Rackerby, CA | $28 to $32 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438965) |
+| Part Time Clubhouse Monitor Manufactured Housing Community | Investment Property Group | Westminster, CA | $17.50 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92438923) |
+| Assistant Community Manager Affordable Apartment Community | Investment Property Group | Lancaster, CA | $24.00 - $28.00 hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438886) |
+| Ancillary Technician | Launchpad Home Group | Delware, DE | $20.00 - $25.00 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438884) |
+| Washington DC Strategic Cuisines Account Executive - Thai | Toast | DC | $148K–$237K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438845) |
+| Territory Account Executive, Retail - Tucson, AZ | Toast | Tucson, AZ | $115K–$185K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438837) |
+| Strategic Cuisines Flex Account Executive, Vietnamese - US | Toast | Chicago, IL | $128K–$205K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438816) |
+| Certified Surgical Technician in Operating Room | St. Charles Health System | Bend, OR | $10/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438595) |
+| Engineering Manager, Machine Learning - Safety | Discord | Remote (CA) | $272K–$340K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438590) |
+| Public Safety Officer | St. Charles Health System | Redmond, OR | $5.50/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438589) |
+| Senior Mechanical Designer - Utilities and Central Energy | Kfi Engineers | St Paul, MN | $50.70 - $63.40 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438573) |
+| RN Infection Prevention | St. Charles Health System | Bend, OR | $48.30 - $72.45 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438567) |
+| HR Systems & Operations Analyst | IXL Learning | San Mateo, CA | $115K–$130K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438548) |
+| Sr. Director, Corporate Legal Counsel | GenScript/ProBio | Piscataway, NJ | $300K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438375) |
+| Senior Scientist, AIDD Scientific Solutions | GenScript/ProBio | Piscataway, NJ | $100K–$110K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438360) |
+| Sales Account Manager, Life Science Catalog Products | GenScript/ProBio | Boston, MA | $75K–$100K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438348) |
+| Staff Software Engineer, Data Governance | Peregrine Technologies | San Francisco, CA | $225K–$275K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438158) |
+| Leasing Consultant | Western National Property Management | Anaheim Hills, CA | $21.00 to $24.00 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438147) |
+| Maintenance Technician | Western National Property Management | Carson, CA | $24.00 to $26 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438123) |
+| Strategic Solutions Engineer - CNC - West Coast | Fictiv | San Francisco, CA | $175,000 to $180,000 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438111) |
+| Copy of Strategic Solutions Engineer - CNC - Northeast | Fictiv | Boston, MA | $125,000 to $142,000 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438107) |
+| Staff Machine Learning Engineer, Growth | Metropolis | Seattle, WA | $220,000.00 to $260,000.00 annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438026) |
+| Senior Manager, Software Engineering | Metropolis | NY | $216K–$264K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438020) |
+| Part-Time Instructional Assistant(After School Program at Beechwood) | Learning Grove | Beechwood Elementary - Ft Mitchell, KY | $15.00 - $15.00 Hourly | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92438018) |
+| Preschool Assistant Teacher | Learning Grove | Price Hill - Cincinnati, OH | $14.00 - $16.00 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438016) |
+| Resource Coordinator | Learning Grove | OH | $40,000.00 - $43,000.00 Salary | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92438012) |
+| Sales Development Representative I | Flex | Salt Lake City, UT | $68K–$85K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437887) |
+| AGC Commercial | Flex | UT; San Francisco, CA | $256K–$320K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437880) |
+| Day Services Associate-PT-R | Aptiv - Services For People With Disabilities | Lancaster, WI | $15.85 - $15.85 Hourly | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92437878) |
+| Assistant Community Manager | Coast Property Management | Bellevue, WA | $21–$23/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437729) |
+| Branch Teller I-Hire Ahead-Porter Ranch-PT20hrs | Logix Federal Credit Union | Porter Ranch, CA | $21.00 /Hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92437538) |
+| Barista Attendant $17/hr + tips @ Valley Center Road | Town Pump Company | Bozeman, MT | $17 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437537) |
+| Supervisor, Billing | Allied Benefit Systems | Allied Benefit Systems - CHICAGO, IL | $60,000.00 - $65,000.00 Salary | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437336) |
+| NON-CDL DELIVERY DRIVER (CLASS C/D LICENSE) | Carolina Beverage Corporation | Raeford Location - Raeford, NC | $44,000.00 - $46,000.00 Salary/year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437287) |
+| CLASS A CDL DELIVERY SPECIALIST (BULK/TRACTOR-TRAILER) | Carolina Beverage Corporation | Raeford Location - Raeford, NC | $50,000.00 - $55,000.00 Salary/year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437284) |
+| MERCHANDISER SPECIALIST | Carolina Beverage Corporation | Leland Location - Leland, NC | $40,000.00 - $42,000.00 Salary | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437283) |
+| Associate General Counsel, Americas | Signode | Tampa, FL | $124K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437266) |
+| Leasing Consultant-Waterside at River Park Place | 29th Street Capital | KY | $19.00 - $20.00 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437247) |
+| Maintenance Supervisor-Evergreen at Sterling Ridge | 29th Street Capital | TX | $33.00 - $35.00 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437232) |
+| Maintenance Technician-Four Pointe | 29th Street Capital | Four Pointe - Columbus, OH | $21.00 - $24.00 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437224) |
+| DGR Store Lead (63738) | Goodwill Industries of North Louisiana | Pineville Store - Pineville, LA | $14.50 - $14.50 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437185) |
+| Donation Team Member (63739) | Goodwill Industries of North Louisiana | Airline Store - Bossier City, LA | $10.00 - $10.00 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437184) |
+| FERC Rate Analyst I, II,III or Senior | Tri-state Generation and Transmission Association, Inc. | Westminster, CO | $125K–$161K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437158) |
+| Data and Analytics Director | Saif Corporation | OR | $191K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92437114) |
+| Faculty - Professor of Political Science (Tenure-Track, Open Rank) | North Park University | Chicago, IL | $57K–$62K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436487) |
+| Faculty - Professor of Global History (Tenure-Track, Open Rank) | North Park University | Chicago, IL | $57K–$62K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436483) |
+| Faculty - Professor of Accounting/Finance (Open Track, Open Rank) | North Park University | Chicago, IL | $77K–$85K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436481) |
+| Senior Growth Marketing Manager | Upside | Remote (NY) | $132K–$150K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436448) |
+| Help Desk Associate | Wolfe Research, LLC | New York City, NY | $75K–$80K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436424) |
+| Assistant Vice President, Information Technology | Mather Headquarters | Mather HQ (Evanston, IL | $195K–$200K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436374) |
+| Market Property Manager II | John M. Corcoran & Company | Bellingham, MA | $74K–$99K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436360) |
+| Community Manager - Woodcreek Apartments | MG Properties | Lynnwood, WA | $83,000-$85,000 annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436340) |
+| Management Supervisor | MERGE | Remote (GA) | $78K–$114K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436310) |
+| Quality Control Specialist/Supervisor | Join our Talent Pool - SwiftX Inc. | Eastvale, CA | $23/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436262) |
+| Customer Care Specialist | Veracyte | San Diego, CA | $28 - $31 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436225) |
+| Staff Data Scientist, Product Marketing | Chime Financial, Inc | San Francisco, CA | $152K–$210K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436198) |
+| Sr. Growth Product Marketing Manager | Chime Financial, Inc | San Francisco, CA | $150K–$208K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436194) |
+| Sr. CRM Operations Manager | Chime Financial, Inc | San Francisco, CA | $145K–$200K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436189) |
+| Product Designer, Growth | Figma | CA | $169K–$303K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92436159) |
+| Technical Sales Representative (0-5 years experience) | Formlabs | Somerville, MA | $92K–$105K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92435933) |
+| Sales Representative | Formlabs | Milwaukee, WI | $92K–$105K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92435905) |
+| Lead Piercer (Part-Time) | Mejuri | Brickell City Centre, FL | $27- $35 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92435722) |
+| Floor Lead (Retail) (Part-time) | Mejuri | Stanford, KY | $23–$26/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92435695) |
+| Floor Lead (Retail) (Full-time) | Mejuri | The Westchester, NY | $23 - $26 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92435683) |
+| Senior IT Security Specialist - Access Management | New York ISO | Rensselaer, NY | $106K–$176K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92435635) |
+| Commissioning Agent I - Electrical/Mechanical | Syska Hennessy Group | Charlotte, NC | $58K–$87K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92435554) |
+| Yard Service Professional | Ewing Outdoor Supply | Roswell, GA | $18-$24/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92435123) |
+| Yard Manager | Ewing Outdoor Supply | Roswell, GA | $65K–$85K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92435120) |
+| Turf Distribution Service Professional | Ewing Outdoor Supply | Irving, TX | $18 - $24/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92435116) |
+| Client Services Representative | Cetera Advisor Networks LLC | Iselin, NJ | $19.68-$26.32/Hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434776) |
+| Transitions Specialist | Cetera Advisor Networks LLC | Saint Cloud, MN | $28.85–$38.45/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434752) |
+| Director of Memory Care | Experience Senior Living | Fort Collins, CO | $75,000-$77,000/year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434516) |
+| Account Manager Men's Health | Tolmar | Houston, TX | $105,000/year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434347) |
+| Payroll Technician (Open Recruitment) | Westminster School District | Westminster, CA | $5234 - $6358 per month | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434236) |
+| Paraeducator (Open Recruitment) | Westminster School District | Westminster, CA | $21.48 - $26.11 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92434229) |
+| Per Diem Digital Clinician / NP (CA license) | Galileo | Remote | $80/hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92434095) |
+| Per Diem Digital Clinician / MD/DO (CA license) | Galileo | Remote | $140/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92434094) |
+| Product Development Manager, Socks | Bombas | NY | $100K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434089) |
+| Performance Marketing Manager | Bombas | NY | $110K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434088) |
+| Orders Management Driver | Adaptive Home Health | San Antonio, TX | $50,000-$55,000 /year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434085) |
+| Pet Insurance Sales Associate - Greeley, CO | Fetch | Greeley, CO | $55K–$91K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434050) |
+| VP, New Transaction Integration | Fortitude Re | Remote (NJ) | $190K–$210K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434045) |
+| Business Development Representative | National Corporate Housing | NY | $74K–$82K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434036) |
+| Customer Success Manager | Greenplaces | Remote (NC) | $80K–$110K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434034) |
+| Housekeeper | National Corporate Housing | NY | $19.23- $23.00/hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92434020) |
+| Guest Experience Coordinator | National Corporate Housing | Boston, MA | $23.10- $28.50/hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433918) |
+| Staff Product Software Engineer, Consumer Money | Gusto, Inc. | San Francisco, CA | $197K–$247K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433751) |
+| Corporate Paralegal | Gusto, Inc. | NY | $93,615/yr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433671) |
+| Consulting Associate (Antitrust & Competition Economics practice) - Job ID 21761.67.14 | Charles River Associates | Oakland, CA | $136K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433544) |
+| Sr. Manager, FP&A - Commercial | Acadia Pharmaceuticals Inc. | Princeton, NJ | $123K–$154K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433505) |
+| Supervisor, Member Services (Hybrid) | Rewards Network | Chicago, IL | $75K–$80K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433461) |
+| Customer Application Engineer | Ivalua | Fremont, CA | $90K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433384) |
+| Portfolio Solutions Architect, Strategy and Technology/EPOD (5715) | SMX | MD | $162K–$300K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433214) |
+| Linux Systems Administrator (5469) | SMX | Patuxent River, MD | $88K–$146K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433181) |
+| Army Data Audit Manager (ADAM) Program Support Analyst (5848) (TS/SCI) (Ft. Belvoir, VA) | SMX | Fort Belvoir, VA | $155K–$170K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92433055) |
+| Data Product Manager | FanDuel | NY | $116K–$145K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432986) |
+| Sr. Manager, Real Estate | Gatik AI | AZ or Fort Worth, TX | $150K–$200K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432571) |
+| Demurrage Advisor II | Phillips 66 | TX | $109K–$133K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432570) |
+| Sr Advisor, Refining Continuous Improvement | Phillips 66 | TX | $181K–$221K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432566) |
+| Advisor III, OT Cyber Security | Phillips 66 | OK | $125K–$153K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432562) |
+| Maintenance Technician | The Scion Group | Syracuse, NY | $23–$24/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432544) |
+| Sales Development Representative, North America Civil Government | Planet | San Francisco, CA | $68K–$84K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432430) |
+| University Relations Recruiter - Contract | STR | Woburn, MA | $45–$55/hr | Contract | 2026-11-17 | [View](https://veritahire.com/j/92432383) |
+| Principal RF Systems Integration Engineer | STR | GA | $220K–$260K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432365) |
+| Financial Planning & Analysis (FP&A) Analyst - Atlanta, GA | Cortland | Atlanta, GA | $111K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432344) |
+| Senior Product Designer II, CRM | Compass | WA | $147K–$164K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432325) |
+| Paraprofessional | Jcfs Chicago | Chicago, IL | $45,430 annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432235) |
+| Guest Service Associate | Busch's Fresh Food Market | Saline, MI | $15.50/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92432017) |
+| Director, Product Management | OneTrust | Atlanta, GA | $194K–$259K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92432011) |
+| Software Engineer, Backend - Government Products | Robinhood | CA; New York, NY | $166K–$195K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92431982) |
+| Benefits Partner | Robinhood | CA; New York, NY | $145K–$170K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92431937) |
+| Home Infusion Nurse | LUX Infusion | South Burlington, VT | $40–$60/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92431871) |
+| Contract 1099 Home Infusion Nurse | LUX Infusion | Mount Vernon, IL | $40–$60/hr | Contract | 2026-11-17 | [View](https://veritahire.com/j/92431834) |
+| Test System Engineer | Mach Industries | Huntington Beach, CA | $105K–$140K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92431372) |
+| Test Integration Engineer | Mach Industries | Huntington Beach, CA | $105K–$140K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92431366) |
+| Test Engineer | Mach Industries | Huntington Beach, CA | $105K–$140K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92431362) |
+| Cardiac Sonographer - Echocardiology | Valley Children's Healthcare | Madera, CA | $35.68–$51.75/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92431297) |
+| PRESCHOOL INSTRUCTIONAL SPECIALIST | Family Service Association | Moreno Valley, CA | $57K–$70K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92431078) |
+| Contract Clerk | Lobel Financial | Anaheim, CA | $19 - $20 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430952) |
+| Language Arts Teacher | Art of Problem Solving | Frisco, TX | $32–$32.25/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92430793) |
+| Teller I 3/4 Time | Elevations Credit Union | CO | $24.30 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92430724) |
+| Lead Legal Operations Specialist | Culture Amp | IL | $145K–$176K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430719) |
+| Clinical Manager - LTC Team | Care Synergy | Denver, CO | $99,507-$109,262 annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430478) |
+| Laborer Grounds Maintenance - AIT | Ahtna Diversified Holdings, LLC | Bothell, WA | $30.87/hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430318) |
+| General Counsel - AI | Ahtna Diversified Holdings, LLC | Anchorage, AK | $280,000-$340,000 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430312) |
+| Truck Driver - ASL | Ahtna Diversified Holdings, LLC | Redstone Arsenal, AL | $22.00-$28.00/hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430305) |
+| Security Monitoring Dispatcher - 7PM - 5:30AM - Training Provided | Interface Systems | St. Louis, MO | $22.00 Per Hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430183) |
+| AI Specialist Sales | NielsenIQ | IL | $141K–$200K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430153) |
+| Financial Representative | OneMain Financial | Leesburg, VA | $19–$23/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430048) |
+| Loan Sales Specialist | OneMain Financial | Bell, CA | $19–$23/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430036) |
+| Financial Services Specialist | OneMain Financial | Alexandria, VA | $19–$23/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92430034) |
+| Housekeeping Houseperson | Waterford Hotel Group, Inc. | Waltham, MA | $20.00 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92429927) |
+| Construction Inspector | Structural Grace, Inc. | Bend, OR | $80K–$125K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92429830) |
+| Senior Transportation Project Manager | Structural Grace, Inc. | Portland, OR | $190K–$210K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92429827) |
+| $10,000 Sign on bonus Occupational Therapist | Fullbloom | Sacramento, CA | $95K–$100K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92429582) |
+| Assistant Teacher | Fullbloom | Harrisburg, PA | $18.00/Hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92429581) |
+| High School SPED Teacher $10,000 sign on bonus | Fullbloom | Chester, PA | $70,000.00 /Yr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92429580) |
+| Superintendent | Micron Technology | Manassas, VA | $34.50 - $67.00 an hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92427378) |
+| Semiconductor Design Engineer | Micron Technology | Folsom, CA | $147K–$176K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92427361) |
+| Manager, Albany Technology Operations | Micron Technology | Albany, NY | $159,000.00 - $271,000.00 a year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92427353) |
+| Tax Senior / Supervising Senior - High Net Worth Individuals | Holthouse | NY | $95K–$115K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92427150) |
+| Manager - High Net Worth Individuals | Holthouse | NY | $140K–$160K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92427141) |
+| IT Service Specialist II | Rolling Hills Casino and Resort | ROLLING HILLS CASINO - CORNING, CA | $49,000.00 - $62,000.00 | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92427030) |
+| CNS/Neuroscience, ADHD Territory Sales Representative - Houston East Beaumont TX | Collegium Pharmaceutical | Houston, TX | $115K–$150K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426905) |
+| Psychiatrist | Eating Recovery Center | MD | $260K–$300K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426800) |
+| Regulatory Affairs Specialist | Dreyer's Grand Ice Cream | Bakersfield, CA | $75,000 to $85,000 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426797) |
+| Primary Therapist | Eating Recovery Center | WA | $81K–$130K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426794) |
+| Licensed Practical Nurse, Part Time | Eating Recovery Center | MD | $27–$33/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426793) |
+| Premium Food & Beverage Team Lead | MSG Entertainment Holdings, LLC | New York City, NY | $27/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426786) |
+| Hospice RN Case Manager (Easton, PA) | Ennoble Care | Easton, PA | $90K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426767) |
+| Hospice On-Call RN (Philadelphia, PA) - 7 On / 7 Off | Ennoble Care | Philadelphia, PA | $80,000/yr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426765) |
+| Group Project Delivery Leader- Vertical Structures | KLJ | Eagan, MN | $130K-$180K annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426733) |
+| Systems Administrator | Monster Energy | USA - Corona, CA | $70K–$94K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426729) |
+| Production Supervisor - 3rd Shift | Monster Energy | USA - Norwalk, CA | $80K–$108K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426727) |
+| Licensed School-Based Mental Health Clinician (Lead) | Effective School Solutions | Ligonier, PA | $65K | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426596) |
+| Junction - Maintenance Technician (Part-Time) | MEGAPLEX THEATRES | Ogden, UT | $19.23/hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426483) |
+| HVAC Hydronic Specialist | Goodin Company | Minneapolis Corporate - Minneapolis, MN | $24.00 - $35.00 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426418) |
+| Case Manager - Fontaine Inn (JR 5906) | PATH (People Assisting the Homeless) | CA | $28.58 - $34.84 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426415) |
+| Optical Engineer II | Muon Space | Mountain View, CA | $171K–$195K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426393) |
+| Staff Software Engineer, Data Loading Infrastructure | Asana | CA | $248K–$282K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426372) |
+| SMB Account Executive | Asana | IL | $140K–$156K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426360) |
+| Onsite Community Property Manager - Hawthorne | Beach Front Property Management, Inc. | Hawthorne, CA | $17 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426323) |
+| Onsite Community Property Manager - Downey, CA | Beach Front Property Management, Inc. | CA | $17 - $18 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426320) |
+| Senior Game Security Engineer | Scopely | Remote (CA) | $145K–$185K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426278) |
+| Expanded Functions Dental Assistant (EFDA) | Dental365 | Louisville, OH | $30-$35/HR | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426258) |
+| Dental Hygienist (Welcoming Bonus) | Dental365 | Powell, OH | $50/HR | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426256) |
+| Dental Hygienist | Dental365 | Louisville, OH | $40/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426243) |
+| Sales Supervisor, Full-Time - Houston Galleria | Reformation | Houston, TX | $22 - $28 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92426215) |
+| Account Coordinator, Programmatic | DEPT (3Q Digital was absorbed into DEPT) | OR | $50K–$60K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92426173) |
+| Sr. Manager / Associate Director, QA Operations: CSP Oversight (Packaging) and Market Release | BridgeBio Pharma | CA | $188K–$223K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425968) |
+| Senior Manager/Associate Director, Field Analytics & Sales Operations | BridgeBio Pharma | San Francisco Bay Area, CA | $170K–$235K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425965) |
+| Technical Sales and Field Service Engineer | CaptiveAire | Greensboro, NC | $70K–$100K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425932) |
+| Commercial HVAC Service Technician | CaptiveAire | Cincinnati, OH | $55 - $65k/ year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425928) |
+| Dietary Aide - Full Time - Tucson Veterans Home | Powerlink Facilities Management Services | Tucson, AZ | $15.45 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425904) |
+| Dietary Aide | Powerlink Facilities Management Services | Flagstaff, AZ | $18.35 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425900) |
+| Senior Principal Scientist | Summit Therapeutics | Palo Alto, CA | $168K–$197K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425551) |
+| Associate Director, Alliance & Business Operations | Summit Therapeutics | Palo Alto, CA | $169K–$198K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425539) |
+| Sales Support Coordinator - Temporary | Mahoney Environmental | Woodridge, IL | $25–$26/hr | Contract | 2026-11-17 | [View](https://veritahire.com/j/92425496) |
+| CDL Driver | Mahoney Environmental | Richmond, CA | $33–$34.50/hr | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425494) |
+| Youth Service Worker Mornings | Tanager | Main Campus - CEDAR RAPIDS, IA | $17.00 Hourly | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92425373) |
+| ICFID Staff Coordinator | Tanager | Main Campus - CEDAR RAPIDS, IA | $20.50 - $21.50 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425368) |
+| Overnight Youth Service Worker Open Interviews | Tanager | Main Campus - CEDAR RAPIDS, IA | $17.50 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425365) |
+| Maintenance Tech III - Williamsburg Square | Barrett & Stokely | Williamsburg Square - Columbus, OH | $23.00 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425288) |
+| Maintenance Technician II | Barrett & Stokely | Williamsburg Square - Columbus, OH | $21.00 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425285) |
+| Teacher | Five Keys Schools and Programs | CA | $73,910.26 - $99,857.80 Salary/year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425279) |
+| Education Support Specialist-FC (6238) | The House of the Good Shepherd | Herkimer Road Office - Utica, NY | $25.47 - $25.47 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425239) |
+| EDI Operations Assistant | Safety National | Saint Louis, MO | $41K–$52K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92425122) |
+| Field Service Technician | Goodfellow Corp. | Reno, NV | $28 - $38 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92424770) |
+| Coding Quality Specialist 2 - Primary Care | University of Virginia | Charlottesville, VA | $23.00 - $41.38 hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92424502) |
+| Medical Assistant or Licensed Practical Nurse- Ambulatory (Medical Associates of Louisa) | University of Virginia | Louisa, VA | $18.37 - $28.47 hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92424475) |
+| Content Tutor (Staff Wage) | University of Virginia | Charlottesville, VA | $20-$22/hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92424443) |
+| Senior Security Engineer 1, Platform | Oscar Health | NY | $163,944.00- $215,176.00 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92424417) |
+| Senior Data Engineer II | Oscar Health | NY | $180,504 - $236,912 per year | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92424404) |
+| Full Time Overnight Cashier - Montgomery | Walk In Candidates Only - Rebel Convenience Stores | Montgomery, IL | $16 per hour | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92424043) |
+| Cashier - Montclair | Walk In Candidates Only - Rebel Convenience Stores | Montclair, CA | $16.90/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92423931) |
+| Manufacturing Engineer, Soft Goods | Vast | Long Beach, CA | $86K–$230K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423687) |
+| Lead Propulsion Test Engineer | Vast | Mojave, CA | $136K–$193K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423685) |
+| Executive Assistant II | Vast | Long Beach, CA | $96K–$137K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423682) |
+| Pre-Sales Consultant, Financial Services | AlphaSense | NY | $80K–$95K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423673) |
+| Senior Representative - Outside Sales | Accu-tech Corporation | Mount Prospect, IL | $89,928 - $121,403 Annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423643) |
+| Contracts Manager - Subcontracts | Appian Corporation | McLean, VA | $75K–$175K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423609) |
+| Pipefitter - Pass Christian, MS | Turner Industries | Pass Christian, MS | $32 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423507) |
+| CDL Dump Truck Driver - Jackson, AL | Turner Industries | Jackson, AL | $24 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423442) |
+| Boilermaker - Pass Christian, MS | Turner Industries | Pass Christian, MS | $32 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423435) |
+| Hoffman Animal Hospital Medical Director | VetEvolve | Annapolis, MD | $150K–$180K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423395) |
+| Director of Sales, Cisco | Careersus Maxlinear | San Jose, CA | $202,000 to $252,000 Annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423303) |
+| Principal Analog EDA Design Automation Engineer | Careersus Maxlinear | Irvine, CA | $145,000 to $190,000 Annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92423297) |
+| Board Certified Oncologist (1099) Buffalo, NY | Nitelines USA Inc | Buffalo, NY | $225.00 per hour | Contract | 2026-11-17 | [View](https://veritahire.com/j/92422915) |
+| Dental Assistant with a $1,000 sign-on bonus Tallahasee, FL | Nitelines USA Inc | Tallahassee, FL | $27.50 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422888) |
+| Assistant Account Manager - Commercial Lines | Brown & Brown | Denver, CO | $30.00 - $33.65 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422797) |
+| EMT Academy | Priority Ambulance | Mechanicsville, VA | $18.00 - $18.00 Hourly | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422720) |
+| Rivers - Life Enrichment Assistant | Transforming Age | Burnsville, MN | $17–$18.50/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92422624) |
+| Timber - Server | Transforming Age | Apple Valley, MN | $11.25–$12/hr | Part-time | 2026-11-17 | [View](https://veritahire.com/j/92422622) |
+| Mercy Retirement and Care Center - Housekeepers (Various Shifts) | Transforming Age | Oakland, CA | $20 to $21 an hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422620) |
+| Senior Analyst, Agentic AI Engineer | Dell | Hopkinton, MA | $96K–$132K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422352) |
+| Senior Principal Engineer, Solutions Architecture | Dell | US | $171K–$221K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422282) |
+| Inside Product Specialist - Early Career | Dell | Round Rock, TX | $82K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422266) |
+| NE Iowa - Temporary Winter Maintenance Worker | State of Iowa | Des Moines, IA | $22.50/hour | Contract | 2026-11-17 | [View](https://veritahire.com/j/92422257) |
+| Judicial Operations Supervisor-Court Admin (D5 Polk 146471) | State of Iowa | Des Moines, IA | $59,737.60 - $94,432.00 annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422248) |
+| Judicial Operations Supervisor (D5 Polk 112396) | State of Iowa | Des Moines, IA | $59,737.60 - $94,432.00 annually | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422245) |
+| Coordinator, Client Development - Fund Finance | Simpson Thacher & Bartlett LLP | NY | $65K–$80K | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422159) |
+| Lead Infant Teacher | The Gardner School | Lake Elmo, MN | $18.70-$23.10 per hour | Full-time | 2026-11-17 | [View](https://veritahire.com/j/92422124) |
+| Med Tech - SNF | Elite Medical Staffing | Ormond Beach, FL | $24/hour | - | 2026-11-17 | [View](https://veritahire.com/j/92440470) |
+| LPN/LVN - SNF | Elite Medical Staffing | Traverse City, MI | $55-60/hour | - | 2026-11-17 | [View](https://veritahire.com/j/92440469) |
+| Registered Nurse - SNF | Elite Medical Staffing | Traverse City, MI | $65-70/hour | - | 2026-11-17 | [View](https://veritahire.com/j/92440468) |
+| Heavy Maintenance Technician | Jf Petroleum Group | Jacksonville, FL | $19.10-27.85/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92440393) |
+| Software Technical Analyst | Galileo Financial Technologies (SoFi Tech Solutions) | UT | $83,200.00 - $156,000.00 | - | 2026-11-17 | [View](https://veritahire.com/j/92439354) |
+| Caregiver | Wee Care Corporation | Sun City, AZ | $18 - $21 per hour | - | 2026-11-17 | [View](https://veritahire.com/j/92439151) |
+| Sales Representative (bilingual) | Texas Car Title & Payday Loan Services, Inc | Bay City, TX | $13.35 - $14.29/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92438602) |
+| Sales Representative | Texas Car Title & Payday Loan Services, Inc | Tomball, TX | $13.35 - $14.29/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92438601) |
+| Manager In Training | Texas Car Title & Payday Loan Services, Inc | Converse, TX | $13.35 - $15.24/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92438598) |
+| Operator-Mailer Line | Sealed Air Corporation | MA | $22/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92437335) |
+| Team Performance Lead | Sealed Air Corporation | IL | $28/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92437327) |
+| CoExtruder Operator B | Sealed Air Corporation | OH | $22/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92437320) |
+| Safety Specialist / Construction | Compliance Management International | Secaucus, NJ | $110K–$120K | - | 2026-11-17 | [View](https://veritahire.com/j/92436281) |
+| Branch Member Advocate | Credit Union of Colorado | CO | $22.79–$25.07/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92431620) |
+| Vice President of Quality Assurance and Compliance | Lifeline Connections | Vancouver, WA | $100K–$120K | - | 2026-11-17 | [View](https://veritahire.com/j/92431125) |
+| Operations Manager (STL) | CLEAR - Field | Saint Louis, MO | $65,000 - $75,000 / year | - | 2026-11-17 | [View](https://veritahire.com/j/92430990) |
+| Operations Manager (IAD) | CLEAR - Field | Dulles, VA | $70,000 -$80,000 / year | - | 2026-11-17 | [View](https://veritahire.com/j/92430987) |
+| Operations Manager (DCA) | CLEAR - Field | Arlington, VA | $70,000 - $80,000 / year | - | 2026-11-17 | [View](https://veritahire.com/j/92430986) |
+| Server | Bonefish Grill | Johnstown, CO | $12.14/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92430556) |
+| Line Cook | Bonefish Grill | Greenwood Village, CO | $15.16–$21/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92430544) |
+| Host | Bonefish Grill | Fayetteville, NY | $10.35/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92430524) |
+| Medical Claims Specialist - Workers Compensation | Berkshire Hathaway Homestate Companies | San Diego, CA | $26.44/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92427047) |
+| Corporate Facilities Assistant | Monster Energy | USA - Corona, CA | $17–$23/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92426721) |
+| Licensed Veterinary Technician - Upper Manhattan - Upper West Side (W 91st) | Bond Vet | Manhattan, NY | $27 - $40 per hour | - | 2026-11-17 | [View](https://veritahire.com/j/92426693) |
+| Licensed Veterinary Technician - New York - East Village | Bond Vet | Manhattan, NY | $27 - $40 per hour | - | 2026-11-17 | [View](https://veritahire.com/j/92426675) |
+| Licensed Veterinary Technician - New York City | Bond Vet | NY | $27 - $40 per hour | - | 2026-11-17 | [View](https://veritahire.com/j/92426665) |
+| Security Site Licensed Manager | Marksman Security LLC | KS | $25–$26/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92426562) |
+| Security Officer - West Broward, FL | Marksman Security LLC | FL | $16.50–$17/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92426552) |
+| Security Officer - North Broward, FL | Marksman Security LLC | North Broward, FL | $16.00-$17.00/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92426534) |
+| Registered Behavior Technician | Acorn Health | Lakeland, FL | $19.50 / hour | - | 2026-11-17 | [View](https://veritahire.com/j/92426321) |
+| Behavior Technician | Acorn Health | Lakeland, FL | $18.50 / hour | - | 2026-11-17 | [View](https://veritahire.com/j/92426309) |
+| PROPERTY MANAGER | Amurcon Corporation of Virginia | Goodson Manor - Farmville, VA | $21.00 - $22.00 Hourly | - | 2026-11-17 | [View](https://veritahire.com/j/92426203) |
+| Delivery Representative | Ugi Utilities, Inc. | CA | $29.95/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92424921) |
+| Routing and Dispatch Coordinator | Ugi Utilities, Inc. | TX | $34.20 an hour | - | 2026-11-17 | [View](https://veritahire.com/j/92424859) |
+| Chief Building Engineer | Lincoln Property Company | DC | $50–$60/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92423741) |
+| Assistant Property Manager | Lincoln Property Company | Arlington, VA | $36.58/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92423708) |
+| Licensed Veterinary Technician - Danville Family Vet | VetEvolve | Danville, VA | $20-24/hour | - | 2026-11-17 | [View](https://veritahire.com/j/92423405) |
+| Experienced Veterinary Assistant | VetEvolve | Danville, VA | $16/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92423393) |
+| Litigation Paralegal | Tyson & Mendes LLP | San Diego, CA | $30-45/hour | - | 2026-11-17 | [View](https://veritahire.com/j/92423353) |
+| Line Cook | Carrabba's Italian Grill | Waldorf, MD | $15–$18/hr | - | 2026-11-17 | [View](https://veritahire.com/j/92423253) |
+| Radiology Tech with a $1,500 sign-on Jesup, GA | Nitelines USA Inc | Jesup, GA | $35.93 per hour | - | 2026-11-17 | [View](https://veritahire.com/j/92422894) |
+| Clinic Services Specialist 2 - Medical Receptionist | Legacy Health | PORTLAND, OR | $30.39 /Hr | - | 2026-11-17 | [View](https://veritahire.com/j/92422868) |
+| Integrated Behavioral Health Clincian - Primary Care | Legacy Health | PORTLAND, OR | $64.22 /Hr | - | 2026-11-17 | [View](https://veritahire.com/j/92422854) |
+| Safety Security Officer II | Legacy Health | PORTLAND, OR | $35.17 /Hr | - | 2026-11-17 | [View](https://veritahire.com/j/92422836) |
 <!-- jobs:end -->
 
 ## Data and reuse
